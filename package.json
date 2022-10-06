@@ -10,7 +10,8 @@
     "commit": "git-cz",
     "test": "jest",
     "coverage": "jest --coverage",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "test:e2e": "cypress run"
   },
   "dependencies": {
     "axios": "^0.27.2",
